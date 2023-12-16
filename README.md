@@ -27,8 +27,8 @@ This Python script utilizes computer vision techniques, including color selectio
 - Hough Transform: Detect lane lines and visualize them in the image.
 
 ## Example
-
-![Lane Detection Example](lane_detection_example.png)
+[
+![Lane Detection Example](https://c8.alamy.com/comp/ENNT09/car-in-move-on-the-road-balck-car-ENNT09.jpg)]
 
 ## Contribution
 
